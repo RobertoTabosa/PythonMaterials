@@ -72,3 +72,4 @@ df.Attack.value_counts().plot(kind="bar");
 ```python
 
 ```
+https://www.youtube.com/watch?v=Ewgy-G9cmbg
